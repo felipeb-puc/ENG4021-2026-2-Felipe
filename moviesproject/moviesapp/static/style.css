@@ -26,3 +26,8 @@ body {
 .card {
     border: 2px solid black;
 }
+
+.card img{
+    display: flex;
+    justify-content: center;
+}
